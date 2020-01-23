@@ -1,0 +1,11 @@
+# basic options
+title: My new blog
+author: Shahlo Seidmed
+email: sseidmed@gmail.com
+description: New project from tutorial
+twitter_username: Sseidmedova
+github_username: sseidmed
+
+# Build setting
+markdown: kramdown
+theme: minima
