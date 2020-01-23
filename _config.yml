@@ -8,4 +8,4 @@ github_username: sseidmed
 
 # Build setting
 markdown: kramdown
-remote_theme: architect
+remote_theme: minima
