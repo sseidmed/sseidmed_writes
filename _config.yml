@@ -8,4 +8,4 @@ github_username: sseidmed
 
 # Build setting
 markdown: kramdown
-theme: alembic
+theme: minima
