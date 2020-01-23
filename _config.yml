@@ -8,5 +8,5 @@ github_username: sseidmed
 
 # Build setting
 markdown: kramdown
-theme: jekyll-theme-architect
+theme: minima
 
